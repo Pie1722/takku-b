@@ -1,7 +1,7 @@
 # takku:b
 Low Power Binary Wrist Watch
 
-# 3D Model
+## 3D Model
 
 Click the image
 
