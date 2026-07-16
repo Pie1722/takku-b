@@ -79,7 +79,7 @@ So to read the time just add the digits in which the LED is turned on and ignore
 
 ## PCB Design
 
-The PCB is fully open-sourced and is designed in EasyEDA standard edition. You can download the gerber files for PCB manufacturing from [/Gerber][Gerber/]
+The PCB is fully open-sourced and is designed in EasyEDA standard edition. The PCB size is 36mm * 36mm. You can download the gerber files for PCB manufacturing from [/Gerber](Gerber/)
 
 <img width="2923" height="2070" alt="Schematic_Binary-Watch_2026-06-24" src="https://github.com/user-attachments/assets/9cc99fe4-90c3-4f41-ba16-6e1910dd7919" />
 
@@ -89,5 +89,9 @@ The PCB is fully open-sourced and is designed in EasyEDA standard edition. You c
 
 
 ## CAD Design
+
+<img width="800" height="600" alt="binarywatch-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/756d55a9-d5e9-4fac-a5ac-96491b0de56d" />
+
+<img width="1280" height="720" alt="cad" src="https://github.com/user-attachments/assets/c003a56f-3511-40b2-9c8c-b3589d257d84" />
 
 ---
