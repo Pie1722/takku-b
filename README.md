@@ -79,9 +79,14 @@ So to read the time just add the digits in which the LED is turned on and ignore
 
 ## PCB Design
 
+The PCB is fully open-sourced and is designed in EasyEDA standard edition. You can download the gerber from /gerber
+
 <img width="2923" height="2070" alt="Schematic_Binary-Watch_2026-06-24" src="https://github.com/user-attachments/assets/9cc99fe4-90c3-4f41-ba16-6e1910dd7919" />
 
 <img width="1365" height="720" alt="image" src="https://github.com/user-attachments/assets/fde857bf-34e4-4fa5-bb56-8cfecddabd90" />
+
+<img width="1280" height="720" alt="3d" src="https://github.com/user-attachments/assets/1cf8ab6b-2a96-42d4-92be-b7599bb9de22" />
+
 
 ## CAD Design
 
