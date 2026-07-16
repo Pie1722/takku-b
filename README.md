@@ -1,21 +1,6 @@
 # takku:b
 
-<table>
-<tr>
-  <td width="75%">
-    <img src="https://github.com/user-attachments/assets/858ae882-b4ef-4566-849a-3a6c6d4e0c5a" width="100%" alt="Binary Watch"/>
-  </td>
-  
-  <td width="25%">
-    <img src="https://github.com/user-attachments/assets/9bf011f8-855a-4db2-b611-9f7df4758a09" width="100%" alt="Glowing Watch"/> 
-  <br><br>
-    <img src="https://github.com/user-attachments/assets/1bdf2bfd-137a-479c-99f5-f7c3d789af99" width="100%" alt="PCB Front"/>
-  <br><br>
-    <img src="https://github.com/user-attachments/assets/37320292-618f-4576-a9f8-481ae585b982" width="100%" alt="PCB Back"/>
-  </td>
-  
-</tr>
-</table>
+<img width="1280" height="720" alt="github intro" src="https://github.com/user-attachments/assets/f415e720-7f43-49c3-abe8-44d24a5854e3" />
 
 <p align="justify">
 Most DIY binary watches sacrifice battery life for simplicity. I wanted to build one that could run for months from a CR2032 while still remaining compact and stylish. Using an STM32L0 microcontroller and aggressive power optimization, this watch sleeps at under 10 µA and only wakes when needed.
@@ -28,17 +13,7 @@ This watch consumes very little amount of power and thus it can run forever on t
 
 # Reading Time
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github.com/user-attachments/assets/4fd782c9-28a5-4d55-b54c-54e120cde544" width="100%" alt="Image 1">
-</td>
-
-<td width="50%">
-<img src="https://github.com/user-attachments/assets/630f5f64-f013-440f-9885-0cf345753074" width="100%" alt="Image 2">
-</td>
-</tr>
-</table>
+<img width="1280" height="720" alt="reading time" src="https://github.com/user-attachments/assets/d24877e2-714b-40f4-9713-630a59409227" />
 
 <p align = "justify">
 Reading the time in this watch is very easy. Just as the name suggests, it shows time in binary, more specifically it shows in (BCD) Binary Coded Decimal. BCD is a type of encoding in which each number is represented by fixed number of bits. So to show time we need 4 number in which two are for hours and then the other two are for minutes. Each binary digit has its own weight. The bottom digit represents 1 and the top most represents 8. So we need 16 LEDs to show the time (4 rows and 4 columns).
@@ -51,17 +26,7 @@ So to read the time just add the digits in which the LED is turned on and ignore
 
 # How To Use?
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github.com/user-attachments/assets/780ba0ed-b3f8-4b78-84a9-861c173d9f51" width="100%" alt="Image 1">
-</td>
-
-<td width="50%">
-<img src="https://github.com/user-attachments/assets/89ce1c6d-9a3b-473e-b5e2-33918f8d4284" width="100%" alt="Image 2">
-</td>
-</tr>
-</table>
+<img width="1280" height="720" alt="wach label" src="https://github.com/user-attachments/assets/b6505ead-afb1-4596-b570-f9c57307259a" />
 
 **Note**: See the above figures for the naming conventions.
 
