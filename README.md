@@ -4,7 +4,7 @@ Low Power Binary Wrist Watch
 
 <table>
 <tr>
-  <td width="90%">
+  <td width="70%">
     <img src="https://github.com/user-attachments/assets/858ae882-b4ef-4566-849a-3a6c6d4e0c5a" width="100%" alt="Binary Watch"/>
   </td>
   <td width="30%">
