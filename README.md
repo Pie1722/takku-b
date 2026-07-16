@@ -3,6 +3,7 @@
   <td width="75%">
     <img src="https://github.com/user-attachments/assets/858ae882-b4ef-4566-849a-3a6c6d4e0c5a" width="100%" alt="Binary Watch"/>
   </td>
+  
   <td width="25%">
     <img src="https://github.com/user-attachments/assets/9bf011f8-855a-4db2-b611-9f7df4758a09" width="100%" alt="Glowing Watch"/> 
   <br><br>
@@ -10,6 +11,7 @@
   <br><br>
     <img src="https://github.com/user-attachments/assets/37320292-618f-4576-a9f8-481ae585b982" width="100%" alt="PCB Back"/>
   </td>
+  
 </tr>
 </table>
 
@@ -18,6 +20,20 @@ Most DIY binary watches sacrifice battery life for simplicity. I wanted to build
 
 This watch consumes very little amount of power and thus it can run forever on the CR2032 battery but of course due to its self discharge, it will last for around 8-10 years. Along with time it shows weekday, date, month, year and you can even set alarms!
 </p>
+
+## Reading Time
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github.com/user-attachments/assets/4fd782c9-28a5-4d55-b54c-54e120cde544" width="100%" alt="Image 1">
+</td>
+
+<td width="50%">
+<img src="https://github.com/user-attachments/assets/630f5f64-f013-440f-9885-0cf345753074" width="100%" alt="Image 2">
+</td>
+</tr>
+</table>
 
 
 
