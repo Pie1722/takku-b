@@ -2,6 +2,8 @@
 
 <img width="1280" height="720" alt="github intro" src="https://github.com/user-attachments/assets/f415e720-7f43-49c3-abe8-44d24a5854e3" />
 
+---
+
 <p align="justify">
 Most DIY binary watches sacrifice battery life for simplicity. I wanted to build one that could run for months from a CR2032 while still remaining compact and stylish. Using an STM32L0 microcontroller and aggressive power optimization, this watch sleeps at under 10 µA and only wakes when needed.
 </p>
@@ -11,9 +13,11 @@ This watch consumes very little amount of power and thus it can run forever on t
 
 ---
 
-# Reading Time
+## Reading Time
 
 <img width="1280" height="720" alt="reading time" src="https://github.com/user-attachments/assets/d24877e2-714b-40f4-9713-630a59409227" />
+
+---
 
 <p align = "justify">
 Reading the time in this watch is very easy. Just as the name suggests, it shows time in binary, more specifically it shows in (BCD) Binary Coded Decimal. BCD is a type of encoding in which each number is represented by fixed number of bits. So to show time we need 4 number in which two are for hours and then the other two are for minutes. Each binary digit has its own weight. The bottom digit represents 1 and the top most represents 8. So we need 16 LEDs to show the time (4 rows and 4 columns).
@@ -24,9 +28,11 @@ So to read the time just add the digits in which the LED is turned on and ignore
 
 ---
 
-# How To Use?
+## How To Use?
 
 <img width="1280" height="720" alt="wach label" src="https://github.com/user-attachments/assets/b6505ead-afb1-4596-b570-f9c57307259a" />
+
+---
 
 **Note**: See the above figures for the naming conventions.
 
@@ -63,3 +69,13 @@ So to read the time just add the digits in which the LED is turned on and ignore
 **Flow Of Screen**
 
     Normal Mode -> Screen Time -> Screen Weekday_Date -> Screen Month_Year
+
+---
+
+# Hardware
+
+## PCB Design
+
+## CAD Design
+
+---
