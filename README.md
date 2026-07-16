@@ -89,7 +89,7 @@ The PCB is fully open-sourced and is designed in EasyEDA standard edition. The P
 
 
 ## CAD Design
-
+The watch enclosure was designed considering the PCB dimensions. We used a standard 22mm spacing for the watch strap. Designed considered Using a NATO watch strap. The enclosure was designed with tolerance to avoid manufacturing inaccuracies. The design includes a total of 8 holes. 4 holes in front for mounting the glass and four in back to mount the back panel. Inserts are used has it's difficult to print the threads accurately. The back panel is designed big enough so that the battery can be replaced easily. The edges of the enclosure were rounded to avoid sharp edges. And overall design of all components was kept minimalist so it would be better for 3D printing
 <img width="1280" height="720" alt="FDKBVOYMR0Y8SGP-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/090e09ac-5c4e-43b5-97a8-ced5b7cb8974" />
 
 <img width="1280" height="720" alt="cad" src="https://github.com/user-attachments/assets/c003a56f-3511-40b2-9c8c-b3589d257d84" />
