@@ -1,7 +1,7 @@
 <table>
 <tr>
   <td width="70%">
-    <img src="https://github.com/user-attachments/assets/858ae882-b4ef-4566-849a-3a6c6d4e0c5a" width="75%" alt="Binary Watch"/>
+    <img src="https://github.com/user-attachments/assets/858ae882-b4ef-4566-849a-3a6c6d4e0c5a" width="100%" alt="Binary Watch"/>
   </td>
   <td width="30%">
     <img src="https://github.com/user-attachments/assets/9bf011f8-855a-4db2-b611-9f7df4758a09" width="25%" alt="Glowing Watch"/> 
