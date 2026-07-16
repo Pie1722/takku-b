@@ -1,3 +1,5 @@
+# takku:b
+
 <table>
 <tr>
   <td width="75%">
@@ -21,7 +23,9 @@ Most DIY binary watches sacrifice battery life for simplicity. I wanted to build
 This watch consumes very little amount of power and thus it can run forever on the CR2032 battery but of course due to its self discharge, it will last for around 8-10 years. Along with time it shows weekday, date, month, year and you can even set alarms!
 </p>
 
-## Reading Time
+---
+
+# Reading Time
 
 <table>
 <tr>
