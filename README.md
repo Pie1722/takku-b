@@ -1,7 +1,3 @@
-# takku:b
-Low Power Binary Wrist Watch
-
-
 <table>
 <tr>
   <td width="70%">
@@ -16,6 +12,10 @@ Low Power Binary Wrist Watch
   </td>
 </tr>
 </table>
+
+Most DIY binary watches sacrifice battery life for simplicity. I wanted to build one that could run for months from a CR2032 while still remaining compact and stylish. Using an STM32L0 microcontroller and aggressive power optimization, this watch sleeps at under 10 µA and only wakes when needed.
+
+This watch consumes very little amount of power and thus it can run forever on the CR2032 battery but of course due to its self discharge, it will last for around 8-10 years. Along with time it shows weekday, date, month, year and you can even set alarms!
 
 
 
