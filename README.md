@@ -79,6 +79,10 @@ So to read the time just add the digits in which the LED is turned on and ignore
 
 ## PCB Design
 
+<img width="2923" height="2070" alt="Schematic_Binary-Watch_2026-06-24" src="https://github.com/user-attachments/assets/9cc99fe4-90c3-4f41-ba16-6e1910dd7919" />
+
+<img width="1365" height="720" alt="image" src="https://github.com/user-attachments/assets/fde857bf-34e4-4fa5-bb56-8cfecddabd90" />
+
 ## CAD Design
 
 ---
