@@ -90,6 +90,8 @@ The PCB is fully open-sourced and is designed in EasyEDA standard edition. The P
 
 ## CAD Design
 
+<img width="798" height="356" alt="FDKBVOYMR0Y8SGP-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/090e09ac-5c4e-43b5-97a8-ced5b7cb8974" />
+
 <img width="1280" height="720" alt="cad" src="https://github.com/user-attachments/assets/c003a56f-3511-40b2-9c8c-b3589d257d84" />
 
 ---
