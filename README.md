@@ -35,5 +35,10 @@ This watch consumes very little amount of power and thus it can run forever on t
 </tr>
 </table>
 
+<p align = "justify">
+Reading the time in this watch is very easy. Just as the name suggests, it shows time in binary, more specifically it shows in (BCD) Binary Coded Decimal. BCD is a type of encoding in which each number is represented by fixed number of bits. So to show time we need 4 number in which two are for hours and then the other two are for minutes. Each binary digit has its own weight. The bottom digit represents 1 and the top most represents 8. So we need 16 LEDs to show the time (4 rows and 4 columns).
+
+So to read the time just add the digits in which the LED is turned on and ignore the one's which are off. See the above figure for better understanding.
+</p>
 
 
